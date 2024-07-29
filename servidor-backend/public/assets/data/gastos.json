@@ -1,0 +1,54 @@
+[
+  {
+    "cedula": "1727735365",
+    "ingreso": 32000,
+    "salud": 1000,
+    "educacion": 1000,
+    "vestimenta": 1000,
+    "vivienda": 1000,
+    "alimentacion": 2000,
+    "baseImponible": 26000,
+    "excedente": 362,
+    "valorExcedente": 54.3,
+    "IR": 1410.3
+  },
+  {
+    "cedula": "1527489521",
+    "ingreso": 20000,
+    "salud": 2000,
+    "educacion": 1500,
+    "vestimenta": 500,
+    "vivienda": 0,
+    "alimentacion": 0,
+    "baseImponible": 16000,
+    "excedente": 1070,
+    "valorExcedente": 107,
+    "IR": 267
+  },
+  {
+    "cedula": "1523125486",
+    "ingreso": 20000,
+    "salud": 1000,
+    "educacion": 1000,
+    "vestimenta": 500,
+    "vivienda": 500,
+    "alimentacion": 100,
+    "baseImponible": 16900,
+    "excedente": 1970,
+    "valorExcedente": 197,
+    "IR": 357
+  },
+  {
+    "cedula": "1727735365-20",
+    "ingreso": 20000,
+    "salud": 2000,
+    "educacion": 1000,
+    "vestimenta": 1000,
+    "vivienda": 0,
+    "alimentacion": 0,
+    "baseImponible": 16000,
+    "excedente": 1070,
+    "valorExcedente": 107,
+    "IR": 267
+  }
+]
